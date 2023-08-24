@@ -1,19 +1,16 @@
+<h1 align="center">Hi 👋, I'm Sayed Jamal Hussain Ahmadi</h1>
+<h3 align="center">Web & Software Developer- Berlin, Germany</h3>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jamal-h-ahmadi-b358a4159/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCabCQPaIIUeKdTW1EqFhIbg">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
-
-<h1 align="center">Hi 👋, I'm Sayed Jamal Hussain Ahmadi</h1>
-<h3 align="center">Web & Software Developer- Berlin, Germany</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="coderahmadi" /> </p>
+<hr >
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=coderahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="coderahmadi" /> </p>
 
  => 🔭 I’m currently working as a **Tutor**
 
