@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="coderahmadi" /> </p>
 
-- 🔭 I’m currently working as **Tutor**
-
-<h3 align="left">Connect with me:</h3>
+ => 🔭 I’m currently working as a **Tutor**
 
 <p align="left">
 </p>
