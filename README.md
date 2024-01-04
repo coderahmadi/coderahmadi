@@ -2,7 +2,7 @@
 <h3 align="center">Web & Software Developer- Berlin, Germany</h3>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/jamal-h-ahmadi-b358a4159/">
+  <a href="https://www.linkedin.com/in/sayed-jamal-h-ahmadi-b358a4159/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCabCQPaIIUeKdTW1EqFhIbg">
