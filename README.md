@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayed Jamal Hussain Ahmadi</h1>
 <h3 align="center">Web & Software Developer- Berlin, Germany</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=coderahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="coderahmadi" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=coderahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="coderahmadi" /> </p>
 <div id="badges" align="center">
    <a href="https://coderahmadi.github.io/my-portfolio/)" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
