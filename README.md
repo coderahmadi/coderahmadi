@@ -60,7 +60,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-  ![image](https://user-images.githubusercontent.com/20955511/183303703-3f774a1e-573c-48a3-a7cd-1f226784d74f.png)  
+ 
 <br/>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderahmadi&show_icons=true&locale=en&layout=compact" alt="coderahmadi" /></p>
