@@ -59,16 +59,16 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-< br/>
-< br/>
-< br/>
-<p align="center">
+<br/>
+<br/>
+<br/>
+<p align="left">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderahmadi&show_icons=true&locale=en&layout=compact" alt="Ahmadi" />
+</p>
+<p align="right">
   <a href="https://github.com/coderahmadi">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=coderahmadi&theme=noctis-minimus&hide_border=true&border_radius=9.5&card_width=446" alt="Ahmadi's GitHub streak"/>
   </a>
 </p>
 <br/>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderahmadi&show_icons=true&locale=en&layout=compact" alt="coderahmadi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderahmadi&show_icons=true&locale=en" alt="coderahmadi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderahmadi&show_icons=true&locale=en" alt="Ahmadi" /></p>
