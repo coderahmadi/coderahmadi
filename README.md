@@ -5,13 +5,15 @@
 [![wakatime](https://wakatime.com/badge/user/018ced95-0edd-4d7e-8687-5aa13fe6ebf0.svg)](https://wakatime.com/@018ced95-0edd-4d7e-8687-5aa13fe6ebf0)
 
 <h3 align="center">
-  <samp> Hi 👋, I'm <a target="_blank" href="https://coderahmadi.github.io/my-portfolio/">Sayed Jamal Hussain Ahmadi</a> </samp>
+  <samp> Hi 👋, I am <a target="_blank" href="https://coderahmadi.github.io/my-portfolio/">Sayed Jamal Hussain Ahmadi</a> </samp>
 </h3>
 
 <h5 align="center">
+  <p>
   <samp>
    <b>Web & Software Developer, based in Berlin, Germany</b>
   </samp>
+    </p>
 </h5>
 <div id="badges" align="center">
   <a href="https://coderahmadi.github.io/my-portfolio/" target="blank">
