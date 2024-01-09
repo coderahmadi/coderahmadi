@@ -73,7 +73,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderahmadi&theme=noctis_minimus" alt="Ahmadi's GitHub Contribution"/>
   </a>
 </p>
-<p>
+<p align="center">
   <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderahmadi&theme=noctis_minimus" alt="Ahmadi" />
   <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderahmadi&theme=noctis_minimus" alt="Ahmadi" />
 </p>
