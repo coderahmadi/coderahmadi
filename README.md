@@ -9,11 +9,9 @@
 </h3>
 
 <h5 align="center">
-  <p>
   <samp>
    <b>Web & Software Developer, based in Berlin, Germany</b>
   </samp>
-    </p>
 </h5>
 <div id="badges" align="center">
   <a href="https://coderahmadi.github.io/my-portfolio/" target="blank">
