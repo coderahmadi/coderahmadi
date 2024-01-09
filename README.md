@@ -2,8 +2,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/018ced95-0edd-4d7e-8687-5aa13fe6ebf0.svg)](https://wakatime.com/@018ced95-0edd-4d7e-8687-5aa13fe6ebf0)
 
-<h2 align="center"> Hi 👋, I'm <a target="_blank" href="https://coderahmadi.github.io/my-portfolio/">Sayed Jamal Hussain Ahmadi</a></h2>
-<h4 align="center">Web & Software Developer- Berlin, Germany</h4>
+<h2 align="center"><samp> Hi 👋, I'm <a target="_blank" href="https://coderahmadi.github.io/my-portfolio/">Sayed Jamal Hussain Ahmadi</a> </samp></h2>
+<h4 align="center">Web & Software Developer, based in Berlin, Germany</h4>
 
 <div id="badges" align="center">
   <a href="https://coderahmadi.github.io/my-portfolio/" target="blank">
