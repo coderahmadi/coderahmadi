@@ -73,8 +73,12 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderahmadi&theme=noctis_minimus" alt="Ahmadi's GitHub Contribution"/>
   </a>
 </p>
+<p>
+  <img align="" src="" alt="" />
+  <img align="" src="" alt="" />
+</p>
+<br/>
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderahmadi&show_icons=true&locale=en&layout=compact" alt="Ahmadi" />
 </p>
-<br/>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderahmadi&show_icons=true&locale=en" alt="Ahmadi" /></p>
