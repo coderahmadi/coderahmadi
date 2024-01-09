@@ -37,7 +37,7 @@
  <p> 📧 &emsp; Reach me <a href = "mailto:s.ahmadi4455@gmail.com">s.ahmadi4455@gmail.com</a><br/></p>
  <p> 💬 &emsp; Alternatively,Write me <a href="https://coderahmadi.github.io/my-portfolio/#contact">here</a></p>
 </p>
-<hr/>
+<br/>
 <br/>
 <br/>
 <h3 align="left"> I am ready to work with:</h3>
