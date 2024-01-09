@@ -31,7 +31,7 @@
  # About me
  
 <p>
- <img align="right" width="250" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="250" height="200" src="/assets/programmer.gif" alt="Coding gif" />
  ✌️ &emsp; Enjoy coding <br/>
  ❤️ &emsp; Enthusiastic to learn new features and to implement it<br/>
  📧 &emsp; Reach me at s.ahmadi4455@gmail.com<br/>
