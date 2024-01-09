@@ -82,3 +82,6 @@
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coderahmadi&theme=noctis_minimus&utcOffset=8" alt="Ahmadi" />
 </p>
 <br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderahmadi&theme=noctis_minimus" />
+</p>
