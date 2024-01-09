@@ -8,7 +8,7 @@
   <samp> Hi 👋, I'm <a target="_blank" href="https://coderahmadi.github.io/my-portfolio/">Sayed Jamal Hussain Ahmadi</a> </samp>
 </h3>
 
-<h4 align="center">Web & Software Developer, based in Berlin, Germany</h4>
+<h4 align="center"> <samp> Web & Software Developer, based in Berlin, Germany</samp></h4>
 
 <div id="badges" align="center">
   <a href="https://coderahmadi.github.io/my-portfolio/" target="blank">
