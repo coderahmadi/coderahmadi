@@ -4,9 +4,9 @@
 
 [![wakatime](https://wakatime.com/badge/user/018ced95-0edd-4d7e-8687-5aa13fe6ebf0.svg)](https://wakatime.com/@018ced95-0edd-4d7e-8687-5aa13fe6ebf0)
 
-<h2 align="center">
+<h3 align="center">
   <samp> Hi 👋, I'm <a target="_blank" href="https://coderahmadi.github.io/my-portfolio/">Sayed Jamal Hussain Ahmadi</a> </samp>
-</h2>
+</h3>
 
 <h4 align="center">Web & Software Developer, based in Berlin, Germany</h4>
 
