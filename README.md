@@ -62,13 +62,14 @@
 <br/>
 <br/>
 <br/>
-<p align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderahmadi&show_icons=true&locale=en&layout=compact" alt="Ahmadi" />
-</p>
-<p align="right">
+
+<p align="center">
   <a href="https://github.com/coderahmadi">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=coderahmadi&theme=noctis-minimus&hide_border=true&border_radius=9.5&card_width=446" alt="Ahmadi's GitHub streak"/>
   </a>
+</p>
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderahmadi&show_icons=true&locale=en&layout=compact" alt="Ahmadi" />
 </p>
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderahmadi&show_icons=true&locale=en" alt="Ahmadi" /></p>
