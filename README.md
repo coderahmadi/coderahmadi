@@ -1,5 +1,5 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=coderahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="coderahmadi" /> </p>
-[![wakatime](https://wakatime.com/badge/user/018ced95-0edd-4d7e-8687-5aa13fe6ebf0.svg)](https://wakatime.com/@018ced95-0edd-4d7e-8687-5aa13fe6ebf0)
+.[![wakatime](https://wakatime.com/badge/user/018ced95-0edd-4d7e-8687-5aa13fe6ebf0.svg)](https://wakatime.com/@018ced95-0edd-4d7e-8687-5aa13fe6ebf0)
 <h2 align="center">Hi 👋, I'm Sayed Jamal Hussain Ahmadi</h2>
 <h4 align="center">Web & Software Developer- Berlin, Germany</h4>
 
