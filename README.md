@@ -74,8 +74,8 @@
   </a>
 </p>
 <p>
-  <img align="" src="" alt="" />
-  <img align="" src="" alt="" />
+  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderahmadi&theme=noctis_minimus" alt="Ahmadi" />
+  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderahmadi&theme=noctis_minimus" alt="Ahmadi" />
 </p>
 <br/>
 <p align="center">
