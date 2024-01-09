@@ -74,11 +74,7 @@
   </a>
 </p>
 <p align="center">
-  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderahmadi&theme=noctis_minimus" alt="Ahmadi" />
-  <img align="" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderahmadi&theme=noctis_minimus" alt="Ahmadi" />
+  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coderahmadi&theme=noctis_minimus" alt="Ahmadi" />
+  <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coderahmadi&theme=noctis_minimus" alt="Ahmadi" />
 </p>
 <br/>
-<p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coderahmadi&show_icons=true&locale=en&layout=compact" alt="Ahmadi" />
-</p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=coderahmadi&show_icons=true&locale=en" alt="Ahmadi" /></p>
