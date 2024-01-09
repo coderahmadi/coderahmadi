@@ -1,4 +1,4 @@
-<a align="right"> <img src="https://komarev.com/ghpvc/?username=coderahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="coderahmadi" /> </a>
+<a> <img align="right" src="https://komarev.com/ghpvc/?username=coderahmadi&label=Profile%20views&color=0e75b6&style=flat" alt="coderahmadi" /> </a>
 
 [![wakatime](https://wakatime.com/badge/user/018ced95-0edd-4d7e-8687-5aa13fe6ebf0.svg)](https://wakatime.com/@018ced95-0edd-4d7e-8687-5aa13fe6ebf0)
 
