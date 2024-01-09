@@ -34,7 +34,7 @@
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy coding <br/><br/>
- ❤️ &emsp; Love to learn new features and implement it<br/><br/>
+ ❤️ &emsp; Enthusiastic to learn new new features and to implement it<br/><br/>
  📧 &emsp; Reach me at: s.ahmadi4455@gmail.com<br/><br/>
  💬 &emsp; alternatively, Write me [here](https://coderahmadi.github.io/my-portfolio/#contact)
 
