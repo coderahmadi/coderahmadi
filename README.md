@@ -9,7 +9,9 @@
 </h3>
 
 <h5 align="center">
-  <samp>Web & Software Developer, based in Berlin, Germany</samp>
+  <samp>
+   <b>Web & Software Developer, based in Berlin, Germany</b>
+  </samp>
 </h5>
 
 <div id="badges" align="center">
