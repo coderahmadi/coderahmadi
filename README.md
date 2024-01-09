@@ -34,8 +34,8 @@
  <img align="right" width="250" height="200" src="/assets/programmer.gif" alt="Coding gif" />
  <p> ✌️ &emsp; Enjoy coding <br/></p>
  <p> ❤️ &emsp; Enthusiastic to learn new features and to implement it<br/></p>
- 📧 &emsp; Reach me at s.ahmadi4455@gmail.com<br/>
- 💬 &emsp; Alternatively,Write me <a href="https://coderahmadi.github.io/my-portfolio/#contact">here</a>
+ <p> 📧 &emsp; Reach me at s.ahmadi4455@gmail.com<br/></p>
+ <p> 💬 &emsp; Alternatively,Write me <a href="https://coderahmadi.github.io/my-portfolio/#contact">here</a></p>
 </p>
 
 <h3 align="left">:hammer_and_wrench: Languages and Tools I have used with:</h3>
