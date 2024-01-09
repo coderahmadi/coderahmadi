@@ -13,7 +13,8 @@
    <b>Web & Software Developer, based in Berlin, Germany</b>
   </samp>
 </h5>
-
+<br/>
+<br/>
 <div id="badges" align="center">
   <a href="https://coderahmadi.github.io/my-portfolio/" target="blank">
      <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="coderahmadi" />
