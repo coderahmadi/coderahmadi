@@ -14,7 +14,6 @@
   </samp>
 </h5>
 <br/>
-<br/>
 <div id="badges" align="center">
   <a href="https://coderahmadi.github.io/my-portfolio/" target="blank">
      <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="coderahmadi" />
@@ -26,7 +25,7 @@
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-
+<br/>
  > 🔭 I’m currently working as a **Class Tutor**
 
 <p align="left">
