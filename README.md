@@ -32,13 +32,12 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
  ✌️ &emsp; Enjoy coding <br/>
- ❤️ &emsp; Enthusiastic to learn new new features and to implement it<br/>
- 📧 &emsp; Reach me at: s.ahmadi4455@gmail.com<br/>
+ ❤️ &emsp; Enthusiastic to learn new features and to implement it<br/>
+ 📧 &emsp; Reach me at s.ahmadi4455@gmail.com<br/>
  💬 &emsp; alternatively, Write me [here](https://coderahmadi.github.io/my-portfolio/#contact)
-
 </p>
+
 <h3 align="left">:hammer_and_wrench: Languages and Tools I have used with:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
