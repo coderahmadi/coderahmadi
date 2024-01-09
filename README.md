@@ -32,8 +32,8 @@
  
 <p>
  <img align="right" width="250" height="200" src="/assets/programmer.gif" alt="Coding gif" />
- ✌️ &emsp; Enjoy coding <br/>
- ❤️ &emsp; Enthusiastic to learn new features and to implement it<br/>
+ <p> ✌️ &emsp; Enjoy coding <br/></p>
+ <p> ❤️ &emsp; Enthusiastic to learn new features and to implement it<br/></p>
  📧 &emsp; Reach me at s.ahmadi4455@gmail.com<br/>
  💬 &emsp; Alternatively,Write me <a href="https://coderahmadi.github.io/my-portfolio/#contact">here</a>
 </p>
