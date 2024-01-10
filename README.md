@@ -34,7 +34,7 @@
  <img align="right" width="250" height="160" src="/assets/programmer.gif" alt="Coding gif" />
  <p> ✌️ &emsp; <em>Enjoy coding</em> <br/></p>
  <p> ❤️ &emsp; <em>Enthusiastic to learn new features and to implement it</em><br/></p>
- <p> 📧 &emsp; Reach me <a href = "mailto:s.ahmadi4455@gmail.com">s.ahmadi4455@gmail.com</a><br/></p>
+ <p> 📧 &emsp; <em>Reach me <a href = "mailto:s.ahmadi4455@gmail.com">s.ahmadi4455@gmail.com</a></em><br/></p>
  <p> 💬 &emsp; Alternatively,Write me <a href="https://coderahmadi.github.io/my-portfolio/#contact">here</a></p>
 </p>
 <br/>
