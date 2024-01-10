@@ -32,7 +32,7 @@
  
 <p>
  <img align="right" width="250" height="140" src="/assets/programmer.gif" alt="Coding gif" />
- <p> ✌️ &emsp;<em>Enjoy **coding**</em> <br/></p>
+ <p> ✌️ &emsp;<em>Enjoy coding</em> <br/></p>
  <p> ❤️ &emsp;<em>Enthusiastic to learn new features and to implement it</em><br/></p>
  <p> 📧 &emsp;<em>Reach me <a href = "mailto:s.ahmadi4455@gmail.com">s.ahmadi4455@gmail.com</a></em><br/></p>
  <p> 💬 &emsp;<emp>Alternatively,&nbsp;Write me <a href="https://coderahmadi.github.io/my-portfolio/#contact">here</a></emp></p>
