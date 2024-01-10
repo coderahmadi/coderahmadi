@@ -103,5 +103,5 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=coderahmadi&theme=noctis_minimus" />
 </p>
 
-![Ahmadi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coderahmadi&bg_color=1B2932&color=72B7C0&line=C5C8CE&point=7F3FBF&area_color=FFFFFF&title_color=D3B692&area=true)
+![Ahmadi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=coderahmadi&bg_color=1B2932&color=72B7C0&line=C5C8CE&point=D3B692&area_color=FFFFFF&title_color=D3B692&area=true)
 
