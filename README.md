@@ -71,7 +71,6 @@
 ## Project List
 
 [![Bio Baum Bauer](https://github-readme-stats.vercel.app/api/pin?username=coderahmadi&repo=baum-bauer-frontend&border_color=7F3FBF&bg_color=1B2932&title_color=D3B692&text_color=EEEEEE&icon_color=72B7C0)](https://github.com/coderahmadi/baum-bauer-frontend)
-
 [![Bloom Express](https://github-readme-stats.vercel.app/api/pin?username=coderahmadi&repo=bloom-express&border_color=7F3FBF&bg_color=1B2932&title_color=D3B692&text_color=EEEEEE&icon_color=72B7C0)](https://github.com/coderahmadi/bloom-express)
 
 
