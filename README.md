@@ -75,6 +75,10 @@
 [![Bio Baum Bauer](https://github-readme-stats.vercel.app/api/pin?username=coderahmadi&repo=baum-bauer-frontend)](https://github.com/coderahmadi/baum-bauer-frontend)
 
 
+<br/>
+<br/>
+<br/>
+
 <p align="center">
   <a href="https://github.com/coderahmadi">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=coderahmadi&theme=noctis-minimus&hide_border=true&border_radius=9.5&card_width=446" alt="Ahmadi's GitHub streak"/>
