@@ -58,13 +58,13 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-F05032?style=for-the-badge&logo=git&logoColor=black)
-![Git](https://img.shields.io/badge/Postman-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/Insomnia-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/Figma-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/Netlify-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/Cloudinary-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Git](https://img.shields.io/badge/Render-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Render](https://img.shields.io/badge/Render-239120?style=for-the-badge&logo=render&logoColor=white)
 
 <br/>
 <br/>
