@@ -70,7 +70,7 @@
 
 ## Project List
 
-[![Bio Baum Bauer](https://github-readme-stats.vercel.app/api/pin?username=coderahmadi&repo=baum-bauer-frontend)](https://github.com/coderahmadi/baum-bauer-frontend)
+[![Bio Baum Bauer](https://github-readme-stats.vercel.app/api/pin?username=coderahmadi&repo=baum-bauer-frontend&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/coderahmadi/baum-bauer-frontend)
 
 
 <br/>
