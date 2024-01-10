@@ -80,6 +80,8 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=coderahmadi&theme=noctis-minimus&hide_border=true&border_radius=9.5&card_width=446" alt="Ahmadi's GitHub streak"/>
   </a>
 </p>
+
+<br/>
 <p align="center">
   <a href="https://github.com/coderahmadi">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coderahmadi&theme=noctis_minimus" alt="Ahmadi's GitHub Contribution"/>
