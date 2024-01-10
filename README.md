@@ -15,7 +15,7 @@
 </h5>
 <div id="badges" align="center">
   <a href="https://coderahmadi.github.io/my-portfolio/" target="blank">
-     <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="coderahmadi" />
+     <img src="https://img.shields.io/badge/Portfolio-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Ahmadi" />
   </a>
   <a href="https://www.linkedin.com/in/sayed-jamal-h-ahmadi-b358a4159/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -72,7 +72,7 @@
 
 ## Project List
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coderahmadi&repo=baum-bauer-frontend)](https://github.com/coderahmadi/baum-bauer-frontend)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=coderahmadi&repo=baum-bauer-frontend)](https://github.com/coderahmadi/baum-bauer-frontend)
 
 
 <p align="center">
