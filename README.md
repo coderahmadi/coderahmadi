@@ -39,7 +39,6 @@
 </p>
 <br/>
 <br/>
-<br/>
 
 ## Technologies and Tools I use
 
@@ -66,7 +65,6 @@
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-4285F4?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-239120?style=for-the-badge&logo=render&logoColor=white)
 
-<br/>
 <br/>
 <br/>
 
